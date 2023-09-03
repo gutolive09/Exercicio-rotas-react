@@ -1,7 +1,9 @@
 import React from 'react'
 
-export default function index() {
+export default function Error() {
   return (
-    <div>index</div>
+    <>
+        <h1>Erro 404 - Página nao encontrada</h1>
+    </>
   )
 }

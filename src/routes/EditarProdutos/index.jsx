@@ -1,7 +1,7 @@
-import React from 'react'
-
-export default function index() {
+export default function EditarProduto() {
   return (
-    <div>index</div>
+    <main>
+        <h1>Editando o produto</h1>
+    </main>
   )
 }
